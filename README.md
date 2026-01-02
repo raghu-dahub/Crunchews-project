@@ -1,5 +1,5 @@
 # Crunchews-project
-Real-world data analytics project using live cashew business data. Analyzed sales, expenses, profit, and COGS using Excel, MySQL, and Power BI. Built an interactive dashboard with KPIs, trends, and insights to support data-driven business decisions.
+End-to-end data analytics project using real cashew business data. Performed data cleaning in Excel, analysis in MySQL, and built an interactive Power BI dashboard to track sales, profit, COGS, and business performance.
 
 # 🥜 CrunchEws – Cashew Sales & Profit Analytics
 
