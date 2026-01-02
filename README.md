@@ -1,12 +1,13 @@
 # Crunchews-project
 Real-world data analytics project using live cashew business data. Analyzed sales, expenses, profit, and COGS using Excel, MySQL, and Power BI. Built an interactive dashboard with KPIs, trends, and insights to support data-driven business decisions.
-# 🥜 Cashew Sales & Profit Dashboard (CrunchEws Project)
 
-## 📌 Project Overview
-This project is a **real-world data analytics case study** built using transactional data from a cashew processing and trading business.  
-The goal of the project is to analyze **sales performance, expenses, cost of goods (COGS), profit, quantity sold, and payment behavior** and present insights through an interactive **Power BI dashboard**.
+# 🥜 CrunchEws – Cashew Sales & Profit Analytics
 
-The project demonstrates an **end-to-end data analytics workflow**, from raw data preparation to SQL-based analysis and business-ready visualization.
+## 📌 Project Summary
+**Crunchews** is a real-world data analytics project built using live transactional data from a cashew processing and trading business.  
+The project focuses on analyzing **sales, expenses, cost of goods sold (COGS), profitability, quantity sold, and payment behavior** to generate actionable business insights.
+
+This repository showcases an **end-to-end data analytics workflow**, covering data preparation, SQL-based analysis, and interactive dashboarding using **Power BI**.
 
 ---
 
